@@ -1,3 +1,5 @@
 echo "Hello"
 
 pwd
+
+ls
