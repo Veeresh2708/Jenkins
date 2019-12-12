@@ -1,0 +1,9 @@
+fetch command
+<<<<<<< HEAD
+this is conflit
+=======
+
+test again:wq
+>>>>>>> refs/remotes/origin/master
+
+finally understood
